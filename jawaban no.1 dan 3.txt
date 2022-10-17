@@ -1,0 +1,17 @@
+Jawaban soal no.1 dan no.3
+
+1. - Pre-increment ++a artinya tambah a sebanyak 1 angka, lalu tampilkan hasilnya
+   - Post-increment a++ artinya tampilkan nilai a, lalu tambah a sebanyak 1 angka
+   - Pre-decrement --a artinya kurangi a sebanyak 1 angka, lalu tampilkan hasilnya
+   - Post-decrement a-- artinya tampilkan nilai a, lalu kurangi a sebanyak 1 angka
+
+3. pertama buat header c++ <iostream>
+   kedua buat using namespace std untuk memberitahukan kepada compiler untuk kita akan menggunakan semua fungsi, class dan file
+   ketiga buat buat fungsi main didalamnya buat variabel x = 50, dan buat variabel a,b,c,d,e
+   lalu buat code untuk proses pencarian nilai a yang menyatakan apakah x lebih besar dari 5 + 5
+   lalu buat code lagi untuk proses pencarian nilai b yang menyatakan apakah nilai x lebin besar dari 100
+   lalu buat code lagi untuk proses pencarian nilai c yang menyatakan apakah true jika a dan b true, jika salah satu false maka hasilnya false
+   lalu buat code lagi untuk proses pencarian nilai d yang menyatakan apakah true jika diantara a dan b bernilai true
+   lalu buat code lagi untuk proses pencarian nilai e yang akan membagi hasilnya jika nilai c false maka nilai e true
+   lalu buat code untuk menampilkan hasil dari pernyataan antara true dan false yang dinyatakan dengan angka 1 dan 0
+   fungsi untuk membaca karakter dari input dan mengembalikan nilai 
